@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "494265b4873af5f146814628e3de8019326ea16e6e8c00b6ee64913607402a6b"
+build_start_time: [1715696373, 647306919]
+build_end_time: [1715696373, 671314954]
+inputs:
+  "/Users/omererdogan/flutter_apps/example/example_of_corco/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1715696363, 679746150]
+  "/Users/omererdogan/flutter_apps/example/example_of_corco/macos/Runner/AppDelegate.swift": !private [1714675480, 280591726]
+  "/Users/omererdogan/flutter_apps/example/example_of_corco/macos/Runner/MainFlutterWindow.swift": !private [1682058062, 687082767]
